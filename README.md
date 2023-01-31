@@ -1,1 +1,2 @@
 # SelectionSort
+SelectionSort algorithm
